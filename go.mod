@@ -1,4 +1,4 @@
-module github.com/matusvla/chansplitter
+module github.com/matusvla/chansplit
 
 go 1.18
 
