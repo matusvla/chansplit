@@ -22,7 +22,7 @@ When the consumers take long time to process a message and a producer sends the 
 frequency the memory used by the Splitter will gradually grow as its internal buffers will store all the unprocessed
 messages. There is currently no mechanism that would suppress this behavior or limit the memory usage.
 */
-package chansplitter
+package chansplit
 
 import (
 	"container/list"

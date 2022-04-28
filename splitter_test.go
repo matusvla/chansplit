@@ -1,4 +1,4 @@
-package chansplitter
+package chansplit
 
 import (
 	"fmt"
